@@ -11,3 +11,11 @@
 5. Editable fields
 6. Move item to different column
 7. Change direction of task flow
+
+auto generate id for columns
+ custom template 
+both direction
+add delete columns
+interaction (hover, click, comments)
+inputs / outputs
+single json, improve json schema
